@@ -13,8 +13,7 @@ Every player gets a self-custodial [Tether WDK](https://wdk.tether.io) wallet �
 ## Repositories
 
 - [**contracts**](https://github.com/Goaly-Protocol/contracts) — layered Solidity protocol (markets, ERC-4626 vault, Morpho strategies, optimistic settlement), deployed and Arbiscan-verified on Arbitrum One
-- [**app**](https://github.com/Goaly-Protocol/app) — the dApp (Next.js, embedded WDK wallet)
-- [**landing**](https://github.com/Goaly-Protocol/landing) — marketing site
+- [**core**](https://github.com/Goaly-Protocol/goaly) — goaly core
 - [**docs**](https://github.com/Goaly-Protocol/docs) — documentation
 
 ---
